@@ -1,0 +1,11 @@
+{
+    "num_gpus": 1,
+    "batch_size": 32,
+    "learning_rate": 3e-4,
+    "adam_b1": 0.9,
+    "adam_b2": 0.999,
+    "lr_decay": 0.999,
+    "seed": 1234,
+
+    "num_workers": 4
+}
